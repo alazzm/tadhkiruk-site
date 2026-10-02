@@ -89,3 +89,8 @@ footer.site {
 }
 footer.site a { margin: 0 8px; }
 ul { padding-inline-start: 22px; }
+
+.brand { display: inline-flex; align-items: center; gap: 10px; }
+.brand img { border-radius: 9px; display: block; }
+.brand .name { color: #fff; }
+.hero-logo { border-radius: 26px; box-shadow: 0 10px 30px rgba(0,0,0,.25); margin-bottom: 14px; }
